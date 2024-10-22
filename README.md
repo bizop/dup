@@ -1,4 +1,4 @@
-# Detect Unused Packages
+# Detect Unused Packages (dup)
 
 This script scans your project directory to identify potentially unused npm packages listed in your `package.json` file.
 
