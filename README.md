@@ -15,7 +15,7 @@ This script scans your project directory to identify potentially unused npm pack
 
 ## Installation
 
-1. Copy the `detect-unused-packages.js` file into your project's root directory.
+1. Copy the `dup.js` file into your project's root directory.
 
 ## Usage
 
