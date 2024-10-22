@@ -8,7 +8,7 @@ const dependencies = {
 };
 
 const ignoredDirs = ['node_modules', '.git', 'dist', 'build'];
-const fileExtensions = ['.js', '.jsx', '.ts', '.tsx', '.vue'];
+const fileExtensions = ['.js', '.jsx', '.ts', '.tsx', '.vue', '.mjs', '.cjs'];
 
 async function scanDirectory(dir) {
   const usedPackages = new Set();
