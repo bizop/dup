@@ -4,7 +4,7 @@ This script scans your project directory to identify potentially unused npm pack
 
 ## Features
 
-- Scans JavaScript, TypeScript, and Vue files for import statements
+- Scans JavaScript, TypeScript, React, and Vue files for import statements
 - Identifies packages listed in `package.json` but not imported in the codebase
 - Lists all scanned files for transparency
 - Provides summary statistics on package usage
